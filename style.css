@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),
+    url(https://source.unsplash.com/1600x900/?water,ocean,seas);
+
+    background-size: cover;
+    background-position: center;
+}
+
+.Login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+
+.Login-left{
+background: rgba(211,211,211,0.5);
+padding: 30px;
+
+}
+.Login-right{
+    background: #fff;
+    padding: 30px;
+    
+}
+
+.form-control{
+
+    background-color: transparent!important;
+}
+.logout{
+    float: right !important;
+}
+
+a{
+    background: #fff !important;
+    margin-top: -200px;
+     
+}
+h1{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-decoration: uppercase;
+
+}
